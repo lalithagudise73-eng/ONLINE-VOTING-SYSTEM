@@ -1,0 +1,27 @@
+========================================
+       ONLINE VOTING SYSTEM
+========================================
+
+Voter ID: V101
+Password: ****
+
+Login successful!
+
+Candidates:
+1. Candidate A
+2. Candidate B
+3. Candidate C
+
+Selected Candidate: 1
+
+Vote cast successfully!
+
+========== ELECTION RESULTS ==========
+
+Candidate A : 1 votes
+Candidate B : 0 votes
+Candidate C : 0 votes
+
+========================================
+       SIMULATION COMPLETED
+========================================
